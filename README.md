@@ -1,18 +1,5 @@
 # **[qb-inventory](https://github.com/qbcore-framework/qb-inventory)** reskin 
 
-| If you are intested in recieving github updates join the community on **[Discord](https://discord.gg/NVsaunpesE)**! |
-|----|
-
-*Fan-made re-skin...*
-
-# Showcase
-
-**[Video-OUTDATED](https://streamable.com/5tpgg0)**
-
-### 3.0 Reskin
-
-![General](https://i.imgur.com/ZA393yr.png)
-
 ### 3.5 Reskin
 ![ItemBoxes](https://i.imgur.com/BlUvpQi.png)
 ![Hotbar](https://i.imgur.com/oi5Vaw3.png)
